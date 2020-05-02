@@ -47,13 +47,16 @@ img{
     margin-bottom:2rem;
 }
 .box img{
-    height:400px;
+    height:auto;
 }
 .box>div{
     padding:2rem;
 }
 .box:nth-child(even) img {
     order:2;
+}
+span{
+    color:red;
 }
 .box .text a{
     
